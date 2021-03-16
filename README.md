@@ -9,3 +9,5 @@
 QueueRear/QueueRear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Project I'm working on 👇
+I'm updating the project [品优购商城](https://github.com/QueueRear/PinyouShopping), responsible for the front-end.
